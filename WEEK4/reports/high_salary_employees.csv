@@ -1,0 +1,12 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Experience
+101,Tony Stark,48,Male,Engineering,180000,25
+103,Natasha Romanoff,35,Female,Security,110000,15
+104,Bruce Banner,49,Male,Research,165000,20
+105,Thor Odinson,1500,Male,Leadership,200000,1000
+106,Wanda Maximoff,30,Female,Research,140000,8
+108,Carol Danvers,38,Female,Aerospace,170000,14
+110,Stephen Strange,45,Male,Medical,175000,18
+112,Shuri,21,Female,Research,155000,5
+113,T'Challa,40,Male,Leadership,190000,15
+114,Bucky Barnes,106,Male,Security,105000,14
+115,Vision,5,Male,AI,160000,3

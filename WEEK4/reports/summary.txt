@@ -1,0 +1,7 @@
+EMPLOYEE ANALYSIS REPORT
+=========================
+
+Total Employees : 15
+Average Salary : 139133.33
+Highest Salary : 200000
+Lowest Salary : 65000
